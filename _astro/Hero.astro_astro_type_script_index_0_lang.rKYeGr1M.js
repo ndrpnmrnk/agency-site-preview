@@ -1,1 +1,0 @@
-import{t as e}from"./gsap.Dm7UF3sG.js";import{t}from"./ScrollTrigger.PHyRlFVX.js";e.registerPlugin(t);var n=document.querySelector(`[data-board]`);n&&!matchMedia(`(prefers-reduced-motion: reduce)`).matches&&e.fromTo(n,{scale:.92},{scale:1,ease:`none`,scrollTrigger:{trigger:n,start:`top bottom`,end:`top 15%`,scrub:.5}});
